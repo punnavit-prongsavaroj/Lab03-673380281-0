@@ -1,4 +1,4 @@
-ShipmentType.class
-ShippingCompany.class
-Shipment.class
-ShipmentSection2_Exercise.class
+com\example\ShippingCompany.class
+com\example\ShipmentSection2_Exercise.class
+com\example\ShipmentType.class
+com\example\Shipment.class

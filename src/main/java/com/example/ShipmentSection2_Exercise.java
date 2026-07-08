@@ -127,7 +127,7 @@ class ShippingCompany {
         }
         System.out.println("----------------------------------------");
         // 2) แสดงยอดรวมตรงนี้
-        System.out.println(getTotalCost());
+        System.out.println(getTotalCost()+" บาท");
     }
 }
 

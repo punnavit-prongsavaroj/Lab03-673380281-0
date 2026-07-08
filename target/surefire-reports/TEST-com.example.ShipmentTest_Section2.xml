@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.ShipmentTest_Section2" time="0.063" tests="7" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.ShipmentTest_Section2" time="0.054" tests="7" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="24"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-24\bin"/>
-    <property name="sun.java.command" value="C:\Users\computer\AppData\Local\Temp\surefire15138740970548822354\surefirebooter-20260708155101589_3.jar C:\Users\computer\AppData\Local\Temp\surefire15138740970548822354 2026-07-08T15-51-01_472-jvmRun1 surefire-20260708155101589_1tmp surefire_0-20260708155101589_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\computer\AppData\Local\Temp\surefire2988939717982762146\surefirebooter-20260708160252905_3.jar C:\Users\computer\AppData\Local\Temp\surefire2988939717982762146 2026-07-08T16-02-52_801-jvmRun1 surefire-20260708160252905_1tmp surefire_0-20260708160252905_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="ShipmentTest_Section2"/>
     <property name="surefire.test.class.path" value="C:\Users\computer\Desktop\673380281-0\Lab03-673380281-0\target\test-classes;C:\Users\computer\Desktop\673380281-0\Lab03-673380281-0\target\classes;C:\Users\computer\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.0\junit-jupiter-5.10.0.jar;C:\Users\computer\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\computer\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\computer\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\computer\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\computer\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.0\junit-jupiter-params-5.10.0.jar;C:\Users\computer\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\computer\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\computer\AppData\Local\Temp\surefire15138740970548822354\surefirebooter-20260708155101589_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\computer\AppData\Local\Temp\surefire2988939717982762146\surefirebooter-20260708160252905_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="24.0.1+9-30"/>
@@ -59,11 +59,11 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="68.0"/>
   </properties>
-  <testcase name="sec2_express_1kg" classname="com.example.ShipmentTest_Section2" time="0.031"/>
-  <testcase name="sec2_emptyCompany" classname="com.example.ShipmentTest_Section2" time="0.003"/>
+  <testcase name="sec2_express_1kg" classname="com.example.ShipmentTest_Section2" time="0.026"/>
+  <testcase name="sec2_emptyCompany" classname="com.example.ShipmentTest_Section2" time="0.002"/>
   <testcase name="sec2_express_2_5kg" classname="com.example.ShipmentTest_Section2" time="0.001"/>
-  <testcase name="sec2_totalCost" classname="com.example.ShipmentTest_Section2" time="0.002"/>
+  <testcase name="sec2_totalCost" classname="com.example.ShipmentTest_Section2" time="0.001"/>
   <testcase name="sec2_standard_4kg" classname="com.example.ShipmentTest_Section2" time="0.001"/>
-  <testcase name="sec2_standard_6kg" classname="com.example.ShipmentTest_Section2" time="0.002"/>
-  <testcase name="sec2_standard_8kg" classname="com.example.ShipmentTest_Section2" time="0.001"/>
+  <testcase name="sec2_standard_6kg" classname="com.example.ShipmentTest_Section2" time="0.0"/>
+  <testcase name="sec2_standard_8kg" classname="com.example.ShipmentTest_Section2" time="0.0"/>
 </testsuite>
